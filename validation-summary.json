@@ -1,0 +1,50 @@
+{
+  "checked": "2026-09-19",
+  "browser": {
+    "passed": true,
+    "viewportWidths": [
+      320,
+      390,
+      1280
+    ],
+    "largeText": "200% text checked",
+    "offlineLessons": "passed",
+    "backupRestore": "passed",
+    "features": [
+      "unique full-length selection",
+      "exact competency proportions",
+      "explicit timer start",
+      "hidden feedback",
+      "timer and answers survive reload",
+      "unanswered submission confirmation",
+      "difficulty filter",
+      "checklist persistence and backup restore",
+      "lesson Hindi audio link",
+      "audio search and subject filter",
+      "language deep link pauses old track",
+      "audio resumes playback at saved position",
+      "new OSCE debrief",
+      "320px layout",
+      "all topics have review, audio and question",
+      "official samples mobile layout, navigation, source links, province context and internal search"
+    ],
+    "errors": []
+  },
+  "audio": {
+    "checked": "2026-09-19",
+    "files": 300,
+    "topicCount": 150,
+    "fullDecode": "passed",
+    "minutes": {
+      "en": 130.4,
+      "hi": 86.1
+    },
+    "limits": "Technical validation only; independent clinical, translation and pronunciation review pending."
+  },
+  "limits": [
+    "Technical validation only",
+    "Independent clinical, translation and pronunciation review pending",
+    "Physical iPhone validation pending",
+    "GitHub Pages deployment waiting for authenticated account access"
+  ]
+}

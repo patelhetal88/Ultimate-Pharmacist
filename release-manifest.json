@@ -1,0 +1,1688 @@
+{
+  "release": "All-topic review edition",
+  "prepared": "2026-09-19",
+  "topics": 150,
+  "questions": 226,
+  "osceExercises": 20,
+  "calculators": 9,
+  "prescriptionCheckExercises": 4,
+  "drugIndexEntries": 8,
+  "recordingCount": 300,
+  "audioMinutes": {
+    "en": 130.4,
+    "hi": 86.1
+  },
+  "fullLengthPractice": {
+    "questions": 200,
+    "minutes": 260,
+    "independentlyValidated": false
+  },
+  "independentClinicalReview": false,
+  "fullDetailedClinicalCourse": false,
+  "fullProvincialExamCoverage": false,
+  "nativeSiriPlayback": false,
+  "physicalIPhoneValidation": false,
+  "chapterCoverage": [
+    {
+      "id": "hypertension",
+      "title": "Hypertension",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/hypertension-hi.mp3",
+        "en": "audio/hypertension-en.mp3"
+      }
+    },
+    {
+      "id": "warfarin-dosing",
+      "title": "Warfarin Dosing",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/warfarin-dosing-en.mp3",
+        "hi": "audio/warfarin-dosing-hi.mp3"
+      }
+    },
+    {
+      "id": "stroke-transient-ischemic-attack-tia",
+      "title": "Stroke & Transient Ischemic Attack (TIA)",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/stroke-transient-ischemic-attack-tia-hi.mp3",
+        "en": "audio/stroke-transient-ischemic-attack-tia-en.mp3"
+      }
+    },
+    {
+      "id": "syncope",
+      "title": "Syncope",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/syncope-hi.mp3",
+        "en": "audio/syncope-en.mp3"
+      }
+    },
+    {
+      "id": "dyslipidaemia",
+      "title": "Dyslipidaemia",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/dyslipidaemia-hi.mp3",
+        "en": "audio/dyslipidaemia-en.mp3"
+      }
+    },
+    {
+      "id": "dvt-and-pe",
+      "title": "DVT and PE",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/dvt-and-pe-hi.mp3",
+        "en": "audio/dvt-and-pe-en.mp3"
+      }
+    },
+    {
+      "id": "atrial-fibrillation",
+      "title": "Atrial Fibrillation",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/atrial-fibrillation-en.mp3",
+        "hi": "audio/atrial-fibrillation-hi.mp3"
+      }
+    },
+    {
+      "id": "heart-failure",
+      "title": "Heart Failure",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/heart-failure-en.mp3",
+        "hi": "audio/heart-failure-hi.mp3"
+      }
+    },
+    {
+      "id": "raynaud-s-phenomenon",
+      "title": "Raynaud's Phenomenon",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/raynaud-s-phenomenon-hi.mp3",
+        "en": "audio/raynaud-s-phenomenon-en.mp3"
+      }
+    },
+    {
+      "id": "acute-coronary-syndrome-and-stable-angina",
+      "title": "Acute Coronary Syndrome and Stable Angina",
+      "subject": "Cardiology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/acute-coronary-syndrome-and-stable-angina-en.mp3",
+        "hi": "audio/acute-coronary-syndrome-and-stable-angina-hi.mp3"
+      }
+    },
+    {
+      "id": "sinusitis",
+      "title": "Sinusitis",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/sinusitis-hi.mp3",
+        "en": "audio/sinusitis-en.mp3"
+      }
+    },
+    {
+      "id": "meningitis",
+      "title": "Meningitis",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/meningitis-hi.mp3",
+        "en": "audio/meningitis-en.mp3"
+      }
+    },
+    {
+      "id": "uti",
+      "title": "UTI",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/uti-hi.mp3",
+        "en": "audio/uti-en.mp3"
+      }
+    },
+    {
+      "id": "covid",
+      "title": "COVID",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/covid-en.mp3",
+        "hi": "audio/covid-hi.mp3"
+      }
+    },
+    {
+      "id": "acute-otitis-media",
+      "title": "Acute Otitis Media",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/acute-otitis-media-en.mp3",
+        "hi": "audio/acute-otitis-media-hi.mp3"
+      }
+    },
+    {
+      "id": "sepsis-septic-shock",
+      "title": "Sepsis & Septic Shock",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/sepsis-septic-shock-hi.mp3",
+        "en": "audio/sepsis-septic-shock-en.mp3"
+      }
+    },
+    {
+      "id": "diabetic-foot-infections",
+      "title": "Diabetic Foot Infections",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/diabetic-foot-infections-en.mp3",
+        "hi": "audio/diabetic-foot-infections-hi.mp3"
+      }
+    },
+    {
+      "id": "onychomycosis",
+      "title": "Onychomycosis",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/onychomycosis-hi.mp3",
+        "en": "audio/onychomycosis-en.mp3"
+      }
+    },
+    {
+      "id": "principles-of-infectious-disease",
+      "title": "Principles of Infectious Disease",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/principles-of-infectious-disease-hi.mp3",
+        "en": "audio/principles-of-infectious-disease-en.mp3"
+      }
+    },
+    {
+      "id": "tick-borne-infections",
+      "title": "Tick-Borne Infections",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/tick-borne-infections-en.mp3",
+        "hi": "audio/tick-borne-infections-hi.mp3"
+      }
+    },
+    {
+      "id": "fungal-infections",
+      "title": "Fungal Infections",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/fungal-infections-hi.mp3",
+        "en": "audio/fungal-infections-en.mp3"
+      }
+    },
+    {
+      "id": "pep-occupational-infections",
+      "title": "PEP & Occupational Infections",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/pep-occupational-infections-hi.mp3",
+        "en": "audio/pep-occupational-infections-en.mp3"
+      }
+    },
+    {
+      "id": "tuberculosis",
+      "title": "Tuberculosis",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/tuberculosis-hi.mp3",
+        "en": "audio/tuberculosis-en.mp3"
+      }
+    },
+    {
+      "id": "pharyngitis-bronchitis",
+      "title": "Pharyngitis & Bronchitis",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/pharyngitis-bronchitis-en.mp3",
+        "hi": "audio/pharyngitis-bronchitis-hi.mp3"
+      }
+    },
+    {
+      "id": "pneumonia",
+      "title": "Pneumonia",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/pneumonia-en.mp3",
+        "hi": "audio/pneumonia-hi.mp3"
+      }
+    },
+    {
+      "id": "influenza",
+      "title": "Influenza",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/influenza-en.mp3",
+        "hi": "audio/influenza-hi.mp3"
+      }
+    },
+    {
+      "id": "pep-prep",
+      "title": "PEP & PrEP",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/pep-prep-en.mp3",
+        "hi": "audio/pep-prep-hi.mp3"
+      }
+    },
+    {
+      "id": "sexually-transmitted-infections",
+      "title": "Sexually Transmitted Infections",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/sexually-transmitted-infections-hi.mp3",
+        "en": "audio/sexually-transmitted-infections-en.mp3"
+      }
+    },
+    {
+      "id": "herpes-simplex-virus",
+      "title": "Herpes Simplex Virus",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/herpes-simplex-virus-en.mp3",
+        "hi": "audio/herpes-simplex-virus-hi.mp3"
+      }
+    },
+    {
+      "id": "osteomyelitis-skin-and-soft-tissue-infections",
+      "title": "Osteomyelitis & Skin and Soft Tissue Infections",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/osteomyelitis-skin-and-soft-tissue-infections-hi.mp3",
+        "en": "audio/osteomyelitis-skin-and-soft-tissue-infections-en.mp3"
+      }
+    },
+    {
+      "id": "otitis-externa",
+      "title": "Otitis Externa",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/otitis-externa-en.mp3",
+        "hi": "audio/otitis-externa-hi.mp3"
+      }
+    },
+    {
+      "id": "intra-abdominal-infections",
+      "title": "Intra-abdominal Infections",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/intra-abdominal-infections-hi.mp3",
+        "en": "audio/intra-abdominal-infections-en.mp3"
+      }
+    },
+    {
+      "id": "viral-hepatitis",
+      "title": "Viral Hepatitis",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/viral-hepatitis-en.mp3",
+        "hi": "audio/viral-hepatitis-hi.mp3"
+      }
+    },
+    {
+      "id": "croup",
+      "title": "Croup",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/croup-en.mp3",
+        "hi": "audio/croup-hi.mp3"
+      }
+    },
+    {
+      "id": "infective-endocarditis",
+      "title": "Infective Endocarditis",
+      "subject": "Infectious Disease",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/infective-endocarditis-hi.mp3",
+        "en": "audio/infective-endocarditis-en.mp3"
+      }
+    },
+    {
+      "id": "pruritus-itch",
+      "title": "Pruritus (Itch)",
+      "subject": "Dermatology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/pruritus-itch-hi.mp3",
+        "en": "audio/pruritus-itch-en.mp3"
+      }
+    },
+    {
+      "id": "acne",
+      "title": "Acne",
+      "subject": "Dermatology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/acne-en.mp3",
+        "hi": "audio/acne-hi.mp3"
+      }
+    },
+    {
+      "id": "psoriasis",
+      "title": "Psoriasis",
+      "subject": "Dermatology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/psoriasis-hi.mp3",
+        "en": "audio/psoriasis-en.mp3"
+      }
+    },
+    {
+      "id": "burns-and-sunburns",
+      "title": "Burns and Sunburns",
+      "subject": "Dermatology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/burns-and-sunburns-en.mp3",
+        "hi": "audio/burns-and-sunburns-hi.mp3"
+      }
+    },
+    {
+      "id": "rosacea",
+      "title": "Rosacea",
+      "subject": "Dermatology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/rosacea-en.mp3",
+        "hi": "audio/rosacea-hi.mp3"
+      }
+    },
+    {
+      "id": "lice-scabies",
+      "title": "Lice & Scabies",
+      "subject": "Dermatology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/lice-scabies-hi.mp3",
+        "en": "audio/lice-scabies-en.mp3"
+      }
+    },
+    {
+      "id": "atopic-dermatitis",
+      "title": "Atopic Dermatitis",
+      "subject": "Dermatology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/atopic-dermatitis-en.mp3",
+        "hi": "audio/atopic-dermatitis-hi.mp3"
+      }
+    },
+    {
+      "id": "attention-deficit-hyperactivity-disorder-adhd",
+      "title": "Attention Deficit Hyperactivity Disorder (ADHD)",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/attention-deficit-hyperactivity-disorder-adhd-en.mp3",
+        "hi": "audio/attention-deficit-hyperactivity-disorder-adhd-hi.mp3"
+      }
+    },
+    {
+      "id": "dementia",
+      "title": "Dementia",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/dementia-en.mp3",
+        "hi": "audio/dementia-hi.mp3"
+      }
+    },
+    {
+      "id": "insomnia",
+      "title": "Insomnia",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/insomnia-hi.mp3",
+        "en": "audio/insomnia-en.mp3"
+      }
+    },
+    {
+      "id": "eating-disorders",
+      "title": "Eating Disorders",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/eating-disorders-en.mp3",
+        "hi": "audio/eating-disorders-hi.mp3"
+      }
+    },
+    {
+      "id": "schizophrenia",
+      "title": "Schizophrenia",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/schizophrenia-hi.mp3",
+        "en": "audio/schizophrenia-en.mp3"
+      }
+    },
+    {
+      "id": "acute-agitation",
+      "title": "Acute Agitation",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/acute-agitation-en.mp3",
+        "hi": "audio/acute-agitation-hi.mp3"
+      }
+    },
+    {
+      "id": "anxiety-and-related-disorders",
+      "title": "Anxiety and Related Disorders",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/anxiety-and-related-disorders-en.mp3",
+        "hi": "audio/anxiety-and-related-disorders-hi.mp3"
+      }
+    },
+    {
+      "id": "bipolar-disorder",
+      "title": "Bipolar Disorder",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/bipolar-disorder-hi.mp3",
+        "en": "audio/bipolar-disorder-en.mp3"
+      }
+    },
+    {
+      "id": "depression",
+      "title": "Depression",
+      "subject": "Psychiatry",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/depression-en.mp3",
+        "hi": "audio/depression-hi.mp3"
+      }
+    },
+    {
+      "id": "nausea-vomiting",
+      "title": "Nausea & Vomiting",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/nausea-vomiting-hi.mp3",
+        "en": "audio/nausea-vomiting-en.mp3"
+      }
+    },
+    {
+      "id": "ulcerative-colitis-crohn-s-disease",
+      "title": "Ulcerative Colitis & Crohn's Disease",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/ulcerative-colitis-crohn-s-disease-en.mp3",
+        "hi": "audio/ulcerative-colitis-crohn-s-disease-hi.mp3"
+      }
+    },
+    {
+      "id": "women-s-health",
+      "title": "Women's Health",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/women-s-health-hi.mp3",
+        "en": "audio/women-s-health-en.mp3"
+      }
+    },
+    {
+      "id": "dyspepsia-gerd-peptic-ulcer-disease",
+      "title": "Dyspepsia, GERD & Peptic Ulcer Disease",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/dyspepsia-gerd-peptic-ulcer-disease-hi.mp3",
+        "en": "audio/dyspepsia-gerd-peptic-ulcer-disease-en.mp3"
+      }
+    },
+    {
+      "id": "medical-abortion",
+      "title": "Medical Abortion",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/medical-abortion-en.mp3",
+        "hi": "audio/medical-abortion-hi.mp3"
+      }
+    },
+    {
+      "id": "pancreatitis",
+      "title": "Pancreatitis",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/pancreatitis-en.mp3",
+        "hi": "audio/pancreatitis-hi.mp3"
+      }
+    },
+    {
+      "id": "ibs",
+      "title": "IBS",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/ibs-en.mp3",
+        "hi": "audio/ibs-hi.mp3"
+      }
+    },
+    {
+      "id": "constipation",
+      "title": "Constipation",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/constipation-en.mp3",
+        "hi": "audio/constipation-hi.mp3"
+      }
+    },
+    {
+      "id": "contraception",
+      "title": "Contraception",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/contraception-hi.mp3",
+        "en": "audio/contraception-en.mp3"
+      }
+    },
+    {
+      "id": "benign-prostatic-hyperplasia",
+      "title": "Benign Prostatic Hyperplasia",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/benign-prostatic-hyperplasia-hi.mp3",
+        "en": "audio/benign-prostatic-hyperplasia-en.mp3"
+      }
+    },
+    {
+      "id": "urinary-incontinence",
+      "title": "Urinary Incontinence",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/urinary-incontinence-en.mp3",
+        "hi": "audio/urinary-incontinence-hi.mp3"
+      }
+    },
+    {
+      "id": "menopause",
+      "title": "Menopause",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/menopause-hi.mp3",
+        "en": "audio/menopause-en.mp3"
+      }
+    },
+    {
+      "id": "erectile-dysfunction",
+      "title": "Erectile Dysfunction",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/erectile-dysfunction-hi.mp3",
+        "en": "audio/erectile-dysfunction-en.mp3"
+      }
+    },
+    {
+      "id": "reproductive-health",
+      "title": "Reproductive Health",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/reproductive-health-en.mp3",
+        "hi": "audio/reproductive-health-hi.mp3"
+      }
+    },
+    {
+      "id": "upper-gi-bleeding",
+      "title": "Upper GI Bleeding",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/upper-gi-bleeding-en.mp3",
+        "hi": "audio/upper-gi-bleeding-hi.mp3"
+      }
+    },
+    {
+      "id": "drugs-in-pregnancy-lactation",
+      "title": "Drugs in Pregnancy & Lactation",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/drugs-in-pregnancy-lactation-en.mp3",
+        "hi": "audio/drugs-in-pregnancy-lactation-hi.mp3"
+      }
+    },
+    {
+      "id": "hepatic-encephalopathy",
+      "title": "Hepatic Encephalopathy",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/hepatic-encephalopathy-hi.mp3",
+        "en": "audio/hepatic-encephalopathy-en.mp3"
+      }
+    },
+    {
+      "id": "diarrhoea",
+      "title": "Diarrhoea",
+      "subject": "GI, GU & Reproductive Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/diarrhoea-en.mp3",
+        "hi": "audio/diarrhoea-hi.mp3"
+      }
+    },
+    {
+      "id": "opioid-and-alcohol-use-disorder",
+      "title": "Opioid and Alcohol Use Disorder",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/opioid-and-alcohol-use-disorder-hi.mp3",
+        "en": "audio/opioid-and-alcohol-use-disorder-en.mp3"
+      }
+    },
+    {
+      "id": "bell-palsy-and-gbs",
+      "title": "Bell Palsy and GBS",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/bell-palsy-and-gbs-en.mp3",
+        "hi": "audio/bell-palsy-and-gbs-hi.mp3"
+      }
+    },
+    {
+      "id": "cannabis",
+      "title": "Cannabis",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/cannabis-hi.mp3",
+        "en": "audio/cannabis-en.mp3"
+      }
+    },
+    {
+      "id": "parkinson-s-disease",
+      "title": "Parkinson's Disease",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/parkinson-s-disease-en.mp3",
+        "hi": "audio/parkinson-s-disease-hi.mp3"
+      }
+    },
+    {
+      "id": "headaches-migraines",
+      "title": "Headaches & Migraines",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/headaches-migraines-en.mp3",
+        "hi": "audio/headaches-migraines-hi.mp3"
+      }
+    },
+    {
+      "id": "pain-management-palliative-care",
+      "title": "Pain Management & Palliative Care",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/pain-management-palliative-care-hi.mp3",
+        "en": "audio/pain-management-palliative-care-en.mp3"
+      }
+    },
+    {
+      "id": "chronic-spasticity",
+      "title": "Chronic Spasticity",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/chronic-spasticity-hi.mp3",
+        "en": "audio/chronic-spasticity-en.mp3"
+      }
+    },
+    {
+      "id": "multiple-sclerosis",
+      "title": "Multiple Sclerosis",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/multiple-sclerosis-hi.mp3",
+        "en": "audio/multiple-sclerosis-en.mp3"
+      }
+    },
+    {
+      "id": "restless-leg-syndrome",
+      "title": "Restless Leg Syndrome",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/restless-leg-syndrome-en.mp3",
+        "hi": "audio/restless-leg-syndrome-hi.mp3"
+      }
+    },
+    {
+      "id": "chronic-fatigue-syndrome",
+      "title": "Chronic Fatigue Syndrome",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/chronic-fatigue-syndrome-hi.mp3",
+        "en": "audio/chronic-fatigue-syndrome-en.mp3"
+      }
+    },
+    {
+      "id": "drug-withdrawal-syndromes",
+      "title": "Drug Withdrawal Syndromes",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/drug-withdrawal-syndromes-en.mp3",
+        "hi": "audio/drug-withdrawal-syndromes-hi.mp3"
+      }
+    },
+    {
+      "id": "seizures",
+      "title": "Seizures",
+      "subject": "Neurology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/seizures-hi.mp3",
+        "en": "audio/seizures-en.mp3"
+      }
+    },
+    {
+      "id": "gout",
+      "title": "Gout",
+      "subject": "Musculoskeletal",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/gout-en.mp3",
+        "hi": "audio/gout-hi.mp3"
+      }
+    },
+    {
+      "id": "rheumatoid-arthritis",
+      "title": "Rheumatoid Arthritis",
+      "subject": "Musculoskeletal",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/rheumatoid-arthritis-hi.mp3",
+        "en": "audio/rheumatoid-arthritis-en.mp3"
+      }
+    },
+    {
+      "id": "osteoporosis",
+      "title": "Osteoporosis",
+      "subject": "Musculoskeletal",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/osteoporosis-en.mp3",
+        "hi": "audio/osteoporosis-hi.mp3"
+      }
+    },
+    {
+      "id": "msk-pain",
+      "title": "MSK Pain",
+      "subject": "Musculoskeletal",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/msk-pain-hi.mp3",
+        "en": "audio/msk-pain-en.mp3"
+      }
+    },
+    {
+      "id": "systemic-lupus-erythematosus",
+      "title": "Systemic Lupus Erythematosus",
+      "subject": "Musculoskeletal",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/systemic-lupus-erythematosus-en.mp3",
+        "hi": "audio/systemic-lupus-erythematosus-hi.mp3"
+      }
+    },
+    {
+      "id": "polymyalgia-rheumatica-giant-cell-arteritis",
+      "title": "Polymyalgia Rheumatica & Giant Cell Arteritis",
+      "subject": "Musculoskeletal",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/polymyalgia-rheumatica-giant-cell-arteritis-hi.mp3",
+        "en": "audio/polymyalgia-rheumatica-giant-cell-arteritis-en.mp3"
+      }
+    },
+    {
+      "id": "osteoarthritis",
+      "title": "Osteoarthritis",
+      "subject": "Musculoskeletal",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/osteoarthritis-hi.mp3",
+        "en": "audio/osteoarthritis-en.mp3"
+      }
+    },
+    {
+      "id": "fibromyalgia",
+      "title": "Fibromyalgia",
+      "subject": "Musculoskeletal",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/fibromyalgia-hi.mp3",
+        "en": "audio/fibromyalgia-en.mp3"
+      }
+    },
+    {
+      "id": "diabetes",
+      "title": "Diabetes",
+      "subject": "Endocrine & Metabolic",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/diabetes-en.mp3",
+        "hi": "audio/diabetes-hi.mp3"
+      }
+    },
+    {
+      "id": "hypothyroidism",
+      "title": "Hypothyroidism",
+      "subject": "Endocrine & Metabolic",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/hypothyroidism-en.mp3",
+        "hi": "audio/hypothyroidism-hi.mp3"
+      }
+    },
+    {
+      "id": "hyperthyroidism",
+      "title": "Hyperthyroidism",
+      "subject": "Endocrine & Metabolic",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/hyperthyroidism-hi.mp3",
+        "en": "audio/hyperthyroidism-en.mp3"
+      }
+    },
+    {
+      "id": "allergic-rhinitis",
+      "title": "Allergic Rhinitis",
+      "subject": "Respiratory",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/allergic-rhinitis-en.mp3",
+        "hi": "audio/allergic-rhinitis-hi.mp3"
+      }
+    },
+    {
+      "id": "asthma",
+      "title": "Asthma",
+      "subject": "Respiratory",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/asthma-hi.mp3",
+        "en": "audio/asthma-en.mp3"
+      }
+    },
+    {
+      "id": "copd",
+      "title": "COPD",
+      "subject": "Respiratory",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/copd-en.mp3",
+        "hi": "audio/copd-hi.mp3"
+      }
+    },
+    {
+      "id": "smoking-cessation",
+      "title": "Smoking Cessation",
+      "subject": "Minor Ailments",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "en": "audio/smoking-cessation-en.mp3",
+        "hi": "audio/smoking-cessation-hi.mp3"
+      }
+    },
+    {
+      "id": "pediatric-health",
+      "title": "Pediatric Health",
+      "subject": "Minor Ailments",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/pediatric-health-hi.mp3",
+        "en": "audio/pediatric-health-en.mp3"
+      }
+    },
+    {
+      "id": "travel-medicine",
+      "title": "Travel Medicine",
+      "subject": "Minor Ailments",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/travel-medicine-hi.mp3",
+        "en": "audio/travel-medicine-en.mp3"
+      }
+    },
+    {
+      "id": "eye-health",
+      "title": "Eye Health",
+      "subject": "Ophthalmology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/eye-health-en.mp3",
+        "hi": "audio/eye-health-hi.mp3"
+      }
+    },
+    {
+      "id": "cataract-surgery-post-operative-care",
+      "title": "Cataract Surgery Post-Operative Care",
+      "subject": "Ophthalmology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/cataract-surgery-post-operative-care-hi.mp3",
+        "en": "audio/cataract-surgery-post-operative-care-en.mp3"
+      }
+    },
+    {
+      "id": "glaucoma",
+      "title": "Glaucoma",
+      "subject": "Ophthalmology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/glaucoma-en.mp3",
+        "hi": "audio/glaucoma-hi.mp3"
+      }
+    },
+    {
+      "id": "oncology-general",
+      "title": "Oncology (general)",
+      "subject": "Oncology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/oncology-general-en.mp3",
+        "hi": "audio/oncology-general-hi.mp3"
+      }
+    },
+    {
+      "id": "chemotherapy-induced-nausea-and-vomiting",
+      "title": "Chemotherapy-Induced Nausea and Vomiting",
+      "subject": "Oncology",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/chemotherapy-induced-nausea-and-vomiting-en.mp3",
+        "hi": "audio/chemotherapy-induced-nausea-and-vomiting-hi.mp3"
+      }
+    },
+    {
+      "id": "electrolyte-disorders",
+      "title": "Electrolyte Disorders",
+      "subject": "Anemias, Electrolytes & Nutrition",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/electrolyte-disorders-en.mp3",
+        "hi": "audio/electrolyte-disorders-hi.mp3"
+      }
+    },
+    {
+      "id": "total-parenteral-nutrition",
+      "title": "Total Parenteral Nutrition",
+      "subject": "Anemias, Electrolytes & Nutrition",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/total-parenteral-nutrition-hi.mp3",
+        "en": "audio/total-parenteral-nutrition-en.mp3"
+      }
+    },
+    {
+      "id": "common-anemias",
+      "title": "Common Anemias",
+      "subject": "Anemias, Electrolytes & Nutrition",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/common-anemias-en.mp3",
+        "hi": "audio/common-anemias-hi.mp3"
+      }
+    },
+    {
+      "id": "acute-kidney-injury",
+      "title": "Acute Kidney Injury",
+      "subject": "Kidney Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/acute-kidney-injury-en.mp3",
+        "hi": "audio/acute-kidney-injury-hi.mp3"
+      }
+    },
+    {
+      "id": "chronic-kidney-disease",
+      "title": "Chronic Kidney Disease",
+      "subject": "Kidney Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/chronic-kidney-disease-hi.mp3",
+        "en": "audio/chronic-kidney-disease-en.mp3"
+      }
+    },
+    {
+      "id": "dialysis",
+      "title": "Dialysis",
+      "subject": "Kidney Health",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/dialysis-hi.mp3",
+        "en": "audio/dialysis-en.mp3"
+      }
+    },
+    {
+      "id": "renal-dose-adjustment",
+      "title": "Renal Dose Adjustment",
+      "subject": "Kidney Health",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "hi": "audio/renal-dose-adjustment-hi.mp3",
+        "en": "audio/renal-dose-adjustment-en.mp3"
+      }
+    },
+    {
+      "id": "health-promotion-and-immunizations",
+      "title": "Health Promotion and Immunizations",
+      "subject": "Law & Ethics",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "en": "audio/health-promotion-and-immunizations-en.mp3",
+        "hi": "audio/health-promotion-and-immunizations-hi.mp3"
+      }
+    },
+    {
+      "id": "federal-law",
+      "title": "Federal Law",
+      "subject": "Law & Ethics",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "en": "audio/federal-law-en.mp3",
+        "hi": "audio/federal-law-hi.mp3"
+      }
+    },
+    {
+      "id": "ethics",
+      "title": "Ethics",
+      "subject": "Law & Ethics",
+      "depth": "Concise topic review",
+      "questionCount": 8,
+      "audioFiles": {
+        "en": "audio/ethics-en.mp3",
+        "hi": "audio/ethics-hi.mp3"
+      }
+    },
+    {
+      "id": "canadian-healthcare-system",
+      "title": "Canadian Healthcare System",
+      "subject": "Law & Ethics",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/canadian-healthcare-system-en.mp3",
+        "hi": "audio/canadian-healthcare-system-hi.mp3"
+      }
+    },
+    {
+      "id": "ontario-law-ethics",
+      "title": "Ontario Law & Ethics",
+      "subject": "Law & Ethics",
+      "depth": "Concise topic review",
+      "questionCount": 3,
+      "audioFiles": {
+        "en": "audio/ontario-law-ethics-en.mp3",
+        "hi": "audio/ontario-law-ethics-hi.mp3"
+      }
+    },
+    {
+      "id": "evidence-based-medicine-and-study-design",
+      "title": "Evidence-Based Medicine and Study Design",
+      "subject": "Evidence & Research",
+      "depth": "Concise topic review",
+      "questionCount": 3,
+      "audioFiles": {
+        "en": "audio/evidence-based-medicine-and-study-design-en.mp3",
+        "hi": "audio/evidence-based-medicine-and-study-design-hi.mp3"
+      }
+    },
+    {
+      "id": "literature-references",
+      "title": "Literature & References",
+      "subject": "Evidence & Research",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/literature-references-en.mp3",
+        "hi": "audio/literature-references-hi.mp3"
+      }
+    },
+    {
+      "id": "risk-benefit-nnt",
+      "title": "Risk, Benefit & NNT",
+      "subject": "Evidence & Research",
+      "depth": "Concise topic review",
+      "questionCount": 5,
+      "audioFiles": {
+        "hi": "audio/risk-benefit-nnt-hi.mp3",
+        "en": "audio/risk-benefit-nnt-en.mp3"
+      }
+    },
+    {
+      "id": "diagnostic-test-interpretation",
+      "title": "Diagnostic Test Interpretation",
+      "subject": "Evidence & Research",
+      "depth": "Concise topic review",
+      "questionCount": 4,
+      "audioFiles": {
+        "en": "audio/diagnostic-test-interpretation-en.mp3",
+        "hi": "audio/diagnostic-test-interpretation-hi.mp3"
+      }
+    },
+    {
+      "id": "hospital-pharmacy",
+      "title": "Hospital Pharmacy",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 4,
+      "audioFiles": {
+        "hi": "audio/hospital-pharmacy-hi.mp3",
+        "en": "audio/hospital-pharmacy-en.mp3"
+      }
+    },
+    {
+      "id": "compounding",
+      "title": "Compounding",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 9,
+      "audioFiles": {
+        "en": "audio/compounding-en.mp3",
+        "hi": "audio/compounding-hi.mp3"
+      }
+    },
+    {
+      "id": "social-determinants-of-health",
+      "title": "Social Determinants of Health",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "en": "audio/social-determinants-of-health-en.mp3",
+        "hi": "audio/social-determinants-of-health-hi.mp3"
+      }
+    },
+    {
+      "id": "safety-and-documentation",
+      "title": "Safety and Documentation",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 3,
+      "audioFiles": {
+        "hi": "audio/safety-and-documentation-hi.mp3",
+        "en": "audio/safety-and-documentation-en.mp3"
+      }
+    },
+    {
+      "id": "pharmacy-management",
+      "title": "Pharmacy Management",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 4,
+      "audioFiles": {
+        "en": "audio/pharmacy-management-en.mp3",
+        "hi": "audio/pharmacy-management-hi.mp3"
+      }
+    },
+    {
+      "id": "inter-professional-care",
+      "title": "Inter-professional Care",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "hi": "audio/inter-professional-care-hi.mp3",
+        "en": "audio/inter-professional-care-en.mp3"
+      }
+    },
+    {
+      "id": "medication-reconciliation-and-soap",
+      "title": "Medication Reconciliation and SOAP",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/medication-reconciliation-and-soap-en.mp3",
+        "hi": "audio/medication-reconciliation-and-soap-hi.mp3"
+      }
+    },
+    {
+      "id": "prescription-verification",
+      "title": "Prescription Verification",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 18,
+      "audioFiles": {
+        "hi": "audio/prescription-verification-hi.mp3",
+        "en": "audio/prescription-verification-en.mp3"
+      }
+    },
+    {
+      "id": "patient-counselling",
+      "title": "Patient Counselling",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "hi": "audio/patient-counselling-hi.mp3",
+        "en": "audio/patient-counselling-en.mp3"
+      }
+    },
+    {
+      "id": "medication-history",
+      "title": "Medication History",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/medication-history-hi.mp3",
+        "en": "audio/medication-history-en.mp3"
+      }
+    },
+    {
+      "id": "clinical-decision-making",
+      "title": "Clinical Decision Making",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/clinical-decision-making-hi.mp3",
+        "en": "audio/clinical-decision-making-en.mp3"
+      }
+    },
+    {
+      "id": "antimicrobial-stewardship",
+      "title": "Antimicrobial Stewardship",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "en": "audio/antimicrobial-stewardship-en.mp3",
+        "hi": "audio/antimicrobial-stewardship-hi.mp3"
+      }
+    },
+    {
+      "id": "prescriber-calls",
+      "title": "Prescriber Calls",
+      "subject": "Pharmacy Practice",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "hi": "audio/prescriber-calls-hi.mp3",
+        "en": "audio/prescriber-calls-en.mp3"
+      }
+    },
+    {
+      "id": "pharmacokinetics-half-life",
+      "title": "Pharmacokinetics & Half-life",
+      "subject": "Pharmacy Foundations",
+      "depth": "Concise topic review",
+      "questionCount": 3,
+      "audioFiles": {
+        "en": "audio/pharmacokinetics-half-life-en.mp3",
+        "hi": "audio/pharmacokinetics-half-life-hi.mp3"
+      }
+    },
+    {
+      "id": "drug-interactions",
+      "title": "Drug Interactions",
+      "subject": "Pharmacy Foundations",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "hi": "audio/drug-interactions-hi.mp3",
+        "en": "audio/drug-interactions-en.mp3"
+      }
+    },
+    {
+      "id": "allergy-vs-intolerance",
+      "title": "Allergy vs Intolerance",
+      "subject": "Pharmacy Foundations",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/allergy-vs-intolerance-en.mp3",
+        "hi": "audio/allergy-vs-intolerance-hi.mp3"
+      }
+    },
+    {
+      "id": "laboratory-interpretation",
+      "title": "Laboratory Interpretation",
+      "subject": "Pharmacy Foundations",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "en": "audio/laboratory-interpretation-en.mp3",
+        "hi": "audio/laboratory-interpretation-hi.mp3"
+      }
+    },
+    {
+      "id": "therapeutic-drug-monitoring",
+      "title": "Therapeutic Drug Monitoring",
+      "subject": "Pharmacy Foundations",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "hi": "audio/therapeutic-drug-monitoring-hi.mp3",
+        "en": "audio/therapeutic-drug-monitoring-en.mp3"
+      }
+    },
+    {
+      "id": "medication-safety",
+      "title": "Medication Safety",
+      "subject": "Pharmacy Foundations",
+      "depth": "Concise topic review",
+      "questionCount": 4,
+      "audioFiles": {
+        "hi": "audio/medication-safety-hi.mp3",
+        "en": "audio/medication-safety-en.mp3"
+      }
+    },
+    {
+      "id": "units-dose-calculations",
+      "title": "Units & Dose Calculations",
+      "subject": "Pharmacy Foundations",
+      "depth": "Concise topic review",
+      "questionCount": 3,
+      "audioFiles": {
+        "hi": "audio/units-dose-calculations-hi.mp3",
+        "en": "audio/units-dose-calculations-en.mp3"
+      }
+    },
+    {
+      "id": "routes-dosage-forms",
+      "title": "Routes & Dosage Forms",
+      "subject": "Pharmacy Foundations",
+      "depth": "Concise topic review",
+      "questionCount": 5,
+      "audioFiles": {
+        "en": "audio/routes-dosage-forms-en.mp3",
+        "hi": "audio/routes-dosage-forms-hi.mp3"
+      }
+    },
+    {
+      "id": "geriatrics-frailty",
+      "title": "Geriatrics & Frailty",
+      "subject": "Special Populations",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/geriatrics-frailty-en.mp3",
+        "hi": "audio/geriatrics-frailty-hi.mp3"
+      }
+    },
+    {
+      "id": "pregnancy-breastfeeding",
+      "title": "Pregnancy & Breastfeeding",
+      "subject": "Special Populations",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/pregnancy-breastfeeding-en.mp3",
+        "hi": "audio/pregnancy-breastfeeding-hi.mp3"
+      }
+    },
+    {
+      "id": "pediatric-dosing",
+      "title": "Pediatric Dosing",
+      "subject": "Special Populations",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "en": "audio/pediatric-dosing-en.mp3",
+        "hi": "audio/pediatric-dosing-hi.mp3"
+      }
+    },
+    {
+      "id": "hepatic-impairment",
+      "title": "Hepatic Impairment",
+      "subject": "Special Populations",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/hepatic-impairment-hi.mp3",
+        "en": "audio/hepatic-impairment-en.mp3"
+      }
+    },
+    {
+      "id": "transgender-health",
+      "title": "Transgender Health",
+      "subject": "Special Populations",
+      "depth": "Concise topic review",
+      "questionCount": 2,
+      "audioFiles": {
+        "en": "audio/transgender-health-en.mp3",
+        "hi": "audio/transgender-health-hi.mp3"
+      }
+    },
+    {
+      "id": "inhalers-spacers",
+      "title": "Inhalers & Spacers",
+      "subject": "Devices & Technique",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/inhalers-spacers-hi.mp3",
+        "en": "audio/inhalers-spacers-en.mp3"
+      }
+    },
+    {
+      "id": "insulin-pens",
+      "title": "Insulin Pens",
+      "subject": "Devices & Technique",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/insulin-pens-en.mp3",
+        "hi": "audio/insulin-pens-hi.mp3"
+      }
+    },
+    {
+      "id": "naloxone",
+      "title": "Naloxone",
+      "subject": "Devices & Technique",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/naloxone-en.mp3",
+        "hi": "audio/naloxone-hi.mp3"
+      }
+    },
+    {
+      "id": "epinephrine-auto-injectors",
+      "title": "Epinephrine Auto-injectors",
+      "subject": "Devices & Technique",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "hi": "audio/epinephrine-auto-injectors-hi.mp3",
+        "en": "audio/epinephrine-auto-injectors-en.mp3"
+      }
+    },
+    {
+      "id": "blood-glucose-monitoring",
+      "title": "Blood Glucose Monitoring",
+      "subject": "Devices & Technique",
+      "depth": "Concise topic review",
+      "questionCount": 1,
+      "audioFiles": {
+        "en": "audio/blood-glucose-monitoring-en.mp3",
+        "hi": "audio/blood-glucose-monitoring-hi.mp3"
+      }
+    }
+  ],
+  "officialSamples": {
+    "route": "#official-samples",
+    "type": "External links to officially released samples",
+    "completeTenYearPastPaperArchive": false,
+    "resources": [
+      "PEBC MCQ sample questions",
+      "PEBC sample exam information",
+      "PEBC OSCE sample stations",
+      "Ontario JEP samples when Ontario is selected"
+    ]
+  }
+}
